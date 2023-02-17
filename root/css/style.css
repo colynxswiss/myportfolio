@@ -1,0 +1,47 @@
+/* my first css */
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+background-image: url(https://www.stockvault.net/data/2008/05/01/105026/preview16.jpg);
+height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+color: white;
+
+}
+img {
+    border: 5px solid antiquewhite;
+    width: 15%;
+    height: 15%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+h1 {
+    border: 5px solid antiquewhite;
+    text-align: center;
+    color: burlywood;
+    background-image: url(https://www.stockvault.net/data/2008/05/01/105026/preview16.jpg);
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-style: italic;
+}
+.center2 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    color: burlywood;
+    border: 3px solid antiquewhite;
+    background-image: url(https://www.stockvault.net/data/2008/05/01/105026/preview16.jpg);
+}
+.imgbackground {
+    background-image: url(https://www.stockvault.net/data/2008/05/01/105026/preview16.jpg);
+}
